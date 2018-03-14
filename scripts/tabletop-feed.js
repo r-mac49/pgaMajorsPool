@@ -29,6 +29,7 @@ function createTableColumns(){
 		{"mDataProp": "rank", "sTitle": "Rank", "sClass": "center"},
 		{"mDataProp": "entry", "sTitle": "Entry", "sClass": "center"},
 		{"mDataProp": "grouptotal", "sTitle": "Group Total", "sClass": "center"},
+        {"mDataProp": "grouptoday", "sTitle": "Group Today", "sClass": "center"},
         {"mDataProp": "top10", "sTitle": "Top10", "sClass": "center"},
         {"mDataProp": "topar1", "sTitle": "ToPar", "sClass": "center"},
         {"mDataProp": "today1", "sTitle": "Today", "sClass": "center"},
