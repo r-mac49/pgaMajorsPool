@@ -2165,12 +2165,15 @@
 				font-size: 2.5em;
 			}
 
+/* Venmo */			
+
 		.venmo {
 			width: 44px;
 			height: 44px;
 			filter: grayscale(100%);
 			margin-bottom: -16px;
 		}
+		
 
 /* Image */
 
