@@ -110,7 +110,7 @@
 		}
 
 		.container {
-			width: 65em;
+			width: 60em;
 		}
 
 	}
@@ -2787,7 +2787,7 @@
 			background: rgba(255, 255, 255, 0.95);
 			bottom: 0;
 			left: 50%;
-			margin-left: -32.5em;
+			margin-left: -30em;
 			padding: 2.5em;
 			position: absolute;
 		}
