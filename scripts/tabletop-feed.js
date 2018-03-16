@@ -61,6 +61,7 @@ function writeTableWith(dataSource){
         "iDisplayLength": 25,
         "aaData": dataSource,
         "aoColumns": createTableColumns(),
+        "processing": true,
         "oLanguage": {
             "sLengthMenu": "_MENU_ records per page"
         }
