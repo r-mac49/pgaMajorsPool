@@ -2437,6 +2437,10 @@
 
 	 /* DataTables sorting */
 
+	.sorting:nth-child(n+5) {
+		background: none;
+	}
+
 	.sorting_asc {
 		background: url('../../images/sort_asc.png') no-repeat center right;
 		padding-bottom: 0em;
@@ -2490,6 +2494,7 @@
 		table td {
 			padding: 0.75em 0.75em;
 			font-weight: 700;
+			font-size: 14px;
 		}
 
 		table th {
