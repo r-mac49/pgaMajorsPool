@@ -59,7 +59,7 @@ function writeTableWith(dataSource){
 
     var oTable = jqueryNoConflict("#data-table-container").dataTable({
         "sPaginationType": "bootstrap",
-        "iDisplayLength": 40,
+        "iDisplayLength": 50,
         "aaData": dataSource,
         "aoColumns": createTableColumns(),
         "processing": true,
