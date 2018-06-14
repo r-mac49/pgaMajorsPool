@@ -3,7 +3,7 @@ var jqueryNoConflict = jQuery;
 // begin main function
 jqueryNoConflict(document).ready(function(){
 
-    initializeTabletopObject("1LgVwRQ1GIB_Lx8FLEswC29dTQInj0qiBQWE2x1FyGiU");
+    initializeTabletopObject("1YhFByar8a22TZZhAVjRX5HcI3Rk6ia3X0zRM3cpuOuw");
 
 });
 
