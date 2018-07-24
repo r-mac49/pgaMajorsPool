@@ -1316,7 +1316,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/britishOpen/carnoustie1.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pgaChamp/main.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2165,7 +2165,7 @@
 				font-size: 2.5em;
 			}
 
-/* Venmo */			
+/* Venmo */
 
 		.venmo {
 			width: 44px;
@@ -2173,7 +2173,7 @@
 			filter: grayscale(100%);
 			margin-bottom: -16px;
 		}
-		
+
 
 /* Image */
 
@@ -2465,7 +2465,7 @@
 		background: url('../../images/sort_desc_disabled.png') no-repeat center right;
 		padding-bottom: 0em;
 	}
-	 
+
 	table.display thead th:active,
 	table.display thead td:active {
 		outline: none;
